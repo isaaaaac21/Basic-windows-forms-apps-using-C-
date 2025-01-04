@@ -1,0 +1,10 @@
+F:\programming\After course 13\c#\Projects\SK\bin\Debug\SK.exe.config
+F:\programming\After course 13\c#\Projects\SK\bin\Debug\SK.exe
+F:\programming\After course 13\c#\Projects\SK\bin\Debug\SK.pdb
+F:\programming\After course 13\c#\Projects\SK\obj\Debug\Generate numbers.csproj.AssemblyReference.cache
+F:\programming\After course 13\c#\Projects\SK\obj\Debug\SK.Form1.resources
+F:\programming\After course 13\c#\Projects\SK\obj\Debug\SK.Properties.Resources.resources
+F:\programming\After course 13\c#\Projects\SK\obj\Debug\Generate numbers.csproj.GenerateResource.cache
+F:\programming\After course 13\c#\Projects\SK\obj\Debug\Generate numbers.csproj.CoreCompileInputs.cache
+F:\programming\After course 13\c#\Projects\SK\obj\Debug\SK.exe
+F:\programming\After course 13\c#\Projects\SK\obj\Debug\SK.pdb
