@@ -1,0 +1,10 @@
+F:\programming\After course 13\c#\Projects\MemoryGameProject\bin\Debug\MemoryGameProject.exe.config
+F:\programming\After course 13\c#\Projects\MemoryGameProject\bin\Debug\MemoryGameProject.exe
+F:\programming\After course 13\c#\Projects\MemoryGameProject\bin\Debug\MemoryGameProject.pdb
+F:\programming\After course 13\c#\Projects\MemoryGameProject\obj\Debug\MemoryGameProject.csproj.AssemblyReference.cache
+F:\programming\After course 13\c#\Projects\MemoryGameProject\obj\Debug\MemoryGameProject.Form1.resources
+F:\programming\After course 13\c#\Projects\MemoryGameProject\obj\Debug\MemoryGameProject.Properties.Resources.resources
+F:\programming\After course 13\c#\Projects\MemoryGameProject\obj\Debug\MemoryGameProject.csproj.GenerateResource.cache
+F:\programming\After course 13\c#\Projects\MemoryGameProject\obj\Debug\MemoryGameProject.csproj.CoreCompileInputs.cache
+F:\programming\After course 13\c#\Projects\MemoryGameProject\obj\Debug\MemoryGameProject.exe
+F:\programming\After course 13\c#\Projects\MemoryGameProject\obj\Debug\MemoryGameProject.pdb

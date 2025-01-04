@@ -1,0 +1,10 @@
+F:\programming\After course 13\c#\Projects\Pizza Poject\bin\Debug\Pizza Poject.exe.config
+F:\programming\After course 13\c#\Projects\Pizza Poject\bin\Debug\Pizza Poject.exe
+F:\programming\After course 13\c#\Projects\Pizza Poject\bin\Debug\Pizza Poject.pdb
+F:\programming\After course 13\c#\Projects\Pizza Poject\obj\Debug\Pizza Poject.csproj.AssemblyReference.cache
+F:\programming\After course 13\c#\Projects\Pizza Poject\obj\Debug\Pizza_Poject.Form1.resources
+F:\programming\After course 13\c#\Projects\Pizza Poject\obj\Debug\Pizza_Poject.Properties.Resources.resources
+F:\programming\After course 13\c#\Projects\Pizza Poject\obj\Debug\Pizza Poject.csproj.GenerateResource.cache
+F:\programming\After course 13\c#\Projects\Pizza Poject\obj\Debug\Pizza Poject.csproj.CoreCompileInputs.cache
+F:\programming\After course 13\c#\Projects\Pizza Poject\obj\Debug\Pizza Poject.exe
+F:\programming\After course 13\c#\Projects\Pizza Poject\obj\Debug\Pizza Poject.pdb
