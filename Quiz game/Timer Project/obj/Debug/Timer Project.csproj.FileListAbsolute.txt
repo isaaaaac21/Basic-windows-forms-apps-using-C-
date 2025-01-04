@@ -1,0 +1,14 @@
+F:\programming\After course 13\c#\Projects\Quiz game\Timer Project\bin\Debug\Timer Project.exe.config
+F:\programming\After course 13\c#\Projects\Quiz game\Timer Project\bin\Debug\Timer Project.exe
+F:\programming\After course 13\c#\Projects\Quiz game\Timer Project\bin\Debug\Timer Project.pdb
+F:\programming\After course 13\c#\Projects\Quiz game\Timer Project\obj\Debug\Timer Project.csproj.AssemblyReference.cache
+F:\programming\After course 13\c#\Projects\Quiz game\Timer Project\obj\Debug\Timer_Project.Form1.resources
+F:\programming\After course 13\c#\Projects\Quiz game\Timer Project\obj\Debug\Timer_Project.Properties.Resources.resources
+F:\programming\After course 13\c#\Projects\Quiz game\Timer Project\obj\Debug\Timer Project.csproj.GenerateResource.cache
+F:\programming\After course 13\c#\Projects\Quiz game\Timer Project\obj\Debug\Timer Project.csproj.CoreCompileInputs.cache
+F:\programming\After course 13\c#\Projects\Quiz game\Timer Project\obj\Debug\Timer Project.exe
+F:\programming\After course 13\c#\Projects\Quiz game\Timer Project\obj\Debug\Timer Project.pdb
+F:\programming\After course 13\c#\Projects\Quiz game\Timer Project\obj\Debug\Timer_Project.Form2.resources
+F:\programming\After course 13\c#\Projects\Quiz game\Timer Project\obj\Debug\Timer_Project.Form3.resources
+F:\programming\After course 13\c#\Projects\Quiz game\Timer Project\obj\Debug\Timer_Project.Form4.resources
+F:\programming\After course 13\c#\Projects\Quiz game\Timer Project\obj\Debug\Timer_Project.Form5.resources

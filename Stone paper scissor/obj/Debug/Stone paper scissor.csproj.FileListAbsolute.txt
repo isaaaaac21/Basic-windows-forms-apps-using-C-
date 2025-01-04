@@ -1,0 +1,10 @@
+F:\programming\After course 13\c#\Projects\Stone paper scissor\bin\Debug\Stone paper scissor.exe.config
+F:\programming\After course 13\c#\Projects\Stone paper scissor\bin\Debug\Stone paper scissor.exe
+F:\programming\After course 13\c#\Projects\Stone paper scissor\bin\Debug\Stone paper scissor.pdb
+F:\programming\After course 13\c#\Projects\Stone paper scissor\obj\Debug\Stone paper scissor.csproj.AssemblyReference.cache
+F:\programming\After course 13\c#\Projects\Stone paper scissor\obj\Debug\Stone_paper_scissor.Form1.resources
+F:\programming\After course 13\c#\Projects\Stone paper scissor\obj\Debug\Stone_paper_scissor.Properties.Resources.resources
+F:\programming\After course 13\c#\Projects\Stone paper scissor\obj\Debug\Stone paper scissor.csproj.GenerateResource.cache
+F:\programming\After course 13\c#\Projects\Stone paper scissor\obj\Debug\Stone paper scissor.csproj.CoreCompileInputs.cache
+F:\programming\After course 13\c#\Projects\Stone paper scissor\obj\Debug\Stone paper scissor.exe
+F:\programming\After course 13\c#\Projects\Stone paper scissor\obj\Debug\Stone paper scissor.pdb
