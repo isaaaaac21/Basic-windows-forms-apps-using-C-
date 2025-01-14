@@ -1,0 +1,16 @@
+F:\programming\After course 13\c#\Projects\ContactForm\obj\Debug\ContactFormLayer.csproj.AssemblyReference.cache
+F:\programming\After course 13\c#\Projects\ContactForm\obj\Debug\ContactForm.Form1.resources
+F:\programming\After course 13\c#\Projects\ContactForm\obj\Debug\ContactForm.Properties.Resources.resources
+F:\programming\After course 13\c#\Projects\ContactForm\obj\Debug\ContactFormLayer.csproj.GenerateResource.cache
+F:\programming\After course 13\c#\Projects\ContactForm\obj\Debug\ContactFormLayer.csproj.CoreCompileInputs.cache
+F:\programming\After course 13\c#\Projects\ContactForm\bin\Debug\ContactForm.exe.config
+F:\programming\After course 13\c#\Projects\ContactForm\bin\Debug\ContactForm.exe
+F:\programming\After course 13\c#\Projects\ContactForm\bin\Debug\ContactForm.pdb
+F:\programming\After course 13\c#\Projects\ContactForm\obj\Debug\ContactForm.exe
+F:\programming\After course 13\c#\Projects\ContactForm\obj\Debug\ContactForm.pdb
+F:\programming\After course 13\c#\Projects\ContactForm\bin\Debug\ContactBusinessLayer.dll
+F:\programming\After course 13\c#\Projects\ContactForm\bin\Debug\DataAccessLayer.dll
+F:\programming\After course 13\c#\Projects\ContactForm\bin\Debug\ContactBusinessLayer.pdb
+F:\programming\After course 13\c#\Projects\ContactForm\bin\Debug\DataAccessLayer.pdb
+F:\programming\After course 13\c#\Projects\ContactForm\obj\Debug\ContactF.DBF3B91F.Up2Date
+F:\programming\After course 13\c#\Projects\ContactForm\obj\Debug\ContactForm.Form2.resources
